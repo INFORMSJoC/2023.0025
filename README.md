@@ -70,7 +70,7 @@ The folder results includes all the results presented in our experiments.
    
 2. In the folder Impact of user heterogeneity, the file Summary.xlsx contains the out-of-sample performance comparisons for the three models under different number of user types that have been presented in Table 6. In addition, the file time_A.txt inside the folder K-B records the computational times for ED, TAD and DUM models, where A represents the number of user types and takes the values 2, 3, 4 and 5, and B represents the sample size and takes the values 100, 500 and 1000.
    
-3. In the folder Impact of service-time distribution ambiguity, the file Summary.xlsx contains the out-of-sample performance comparisons under different delay-tolerance thresholds that have been presented in Table 8.
+3. In the folder Impact of service-time distribution ambiguity, the file Summary_TAD.xlsx contains the out-of-sample performance comparisons under different delay-tolerance thresholds that have been presented in Table 8.
    
 4. In the folder A case using real patient data, the files Summary-A.xlsx and Summary-B.xlsx contain the out-of-sample performance comparisons for the three models in the case study, where the patients are categorized as FV and RV in Section 6.4.1, and with consulting time in Section 6.4.2, respectively. Moreover, the figure Waiting_time_updated.png illustrates the distributions of the waiting times (minutes) and consulting times (minutes) of the outpatient data. The figure Figure-3-updated-2018-05-24-onerow.png shows the out-of-sample delay over tolerance for patients. 
    
