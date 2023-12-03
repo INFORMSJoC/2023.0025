@@ -52,7 +52,7 @@ The folder data includes all the samples used in our experiments.
 
 ## Code files
 
-1. In the folder Impact of delay-tolerance, the code file simulation_A_B_tolerance_C_D.py is for solving the ED, TAD and DUM models under different numbers of users (A,B) and different delay-tolerance thresholds (C,D), where (A,B) could take the values (3,7) (5,5) and (7,3), and (C,D) could take the values (1,1) (1,1.5) and (1.5,1). Then the the optimal appointment schedules and sequence solutions presented in results are derived. Note that the files model_ED.py, model_TAD.py and model_DUM.py models contain the corresponding codes for that EM, TAD, and DUM models. The file generateSample.py contains the code for reading the training samples from the original data.
+1. In the folder Impact of delay-tolerance, the code file simulation_A_B_tolerance_C_D.py is for solving the ED, TAD and DUM models under different numbers of users (A,B) and different delay-tolerance thresholds (C,D), where (A,B) could take the values (3,7) (5,5) and (7,3), and (C,D) could take the values (1,1) (1,1.5) and (1.5,1). Then the the optimal appointment schedules and sequence solutions as well as the computational times presented in results are derived and recorded. Note that the files model_ED.py, model_TAD.py and model_DUM.py models contain the corresponding codes for that EM, TAD, and DUM models. The file generateSample.py contains the code for reading the training samples from the original data.
 
 2. The code file User_heterogeneity.py is for evaluating the out-of-sample performance among these three models under different numbers of user types, which has been used in Section 6.2 of our paper.
 
