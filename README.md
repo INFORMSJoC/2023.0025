@@ -58,7 +58,7 @@ The folder data includes all the samples used in our experiments.
 
 3. In the folder A case using real patient data, the code file experiment_FV_RV_X.py is for solving the ED, TAD and DUM models under different cases of delay-tolerance thresholds for FV and RV patients, where X represents the percentile of the historical waiting times and takes the values 0.2, 0.3 and 0.4. Similarly, the code file experiment_categorize_consulting_X.py is for solving the ED, TAD and DUM models under different cases of delay-tolerance thresholds which are categorized by consulting time, where X represents the percentile of the historical waiting times and takes the values 0.2, 0.3 and 0.4. Then the computational times presented in results are recorded. Note that the ED, TAD and DUM models are encoded in the respective code files inside the model file. These code files are used in Section 6.4 of our paper.
 
-4. In the folder EC E, the code file simulation_idle_A-B.py is for solving the TAD model under different idle time tolerance thresholds, where (A,B) represents the number of users and could take the values (3,7) (5,5) and (7,3). These code files are used in E-Companion EC E of our paper.
+4. In the folder Additional numerical experiments, the code file simulation_idle_A-B.py is for solving the TAD model under different idle time tolerance thresholds, where (A,B) represents the number of users and could take the values (3,7) (5,5) and (7,3). Then the the optimal appointment schedules and sequence solutions as well as the computational times presented in results are derived and recorded. These code files are used in E-Companion EC E of our paper.
 
 
 
