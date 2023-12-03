@@ -6,4 +6,4 @@
 
 4. In the folder Additional numerical experiments, the code file simulation_idle_A-B.py is for solving the TAD model under different idle time tolerance thresholds, where (A,B) represents the number of users and could take the values (3,7) (5,5) and (7,3). Then the the optimal appointment schedules and sequence solutions as well as the computational times presented in results are derived and recorded. These code files are used in E-Companion EC E of our paper.
 
-Note: for the code file, you may need to change the input parameters for replicating the whole results, for instance, as for the code file simulation_idle_3-7.py inside the folder Additional numerical experiments, you may change the idle time tolerance by changing the parameter tau presented in line 620.
+Note: for the code files, you may need to change the input parameters for replicating, for instance, as for the code file simulation_idle_3-7.py inside the folder Additional numerical experiments, you may change the idle time tolerance by changing the parameter tau presented in line 620.
