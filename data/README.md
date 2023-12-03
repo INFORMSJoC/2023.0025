@@ -11,3 +11,5 @@ Here is the data needed for replicating the experiments.
 4. The file Service Time Matrix Samples.xlsx contains 2000 randomly selected service time samples from the real case samples by categorizing patients with consulting time.
 
 5. The files Simulation samples-1000-10-X.xlsx contains the generated service time samples that are used in Section 6.2, where X represents the number of user types and could take the values 2, 3, 4 and 5.
+
+Note that each row of one sample represents the service times at the respective position, and each column of one sample represents the service times for that type of users, for instance, the sample at the third row and second column represents the service time for position 3 and type 2 user. 
