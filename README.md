@@ -78,4 +78,4 @@ The folder results includes all the results presented in our experiments.
 
 ## Replicating
 
-To replicate any of the results presented above, put the data folder and the respective src folder under the same folder and run the respective code file.
+To replicate any of the results presented above, put the data folder and the respective scripts folder under the same folder and run the respective code file.
